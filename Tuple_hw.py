@@ -52,20 +52,15 @@ food_stuff_tp=('Apples','Pears','Cherry','Kiwi','Lemon','Orange','Banana','potat
 food_stuff_lst=list(food_stuff_tp)
 print(food_stuff_lst)
 
-# task 4
-
-
-
 # task 5
 
 food_stuff_lst=('Apples', 'Pears', 'Cherry', 'Kiwi', 'Lemon', 'Orange', 'Banana', 'potato', 'tomato', 'cucumber', 'carrot', 'mushroom', 'corn', 'meat', 'Skin or Flesh', 'Milk', 'Whey', 'Eggs') 
 print(food_stuff_lst [2:-2])
 
 
-# task 6 ?
+# task 6 
 # food_stuff_tp=('Apples', 'Pears', 'Cherry', 'Kiwi', 'Lemon', 'Orange', 'Banana', 'potato', 'tomato', 'cucumber', 'carrot', 'mushroom', 'corn', 'meat', 'Skin or Flesh', 'Milk', 'Whey', 'Eggs') 
 # del (food_stuff_tp)
-# print(food_stuff_tp)
 
 #task 7
 nordic_countries = ('Denmark', 'Finland','Iceland', 'Norway', 'Sweden')
