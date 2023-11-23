@@ -60,3 +60,33 @@ else:
 #     print("Winter")
 # else :
 #   print("Spring")
+
+
+
+# task 3
+# fruits = ['banana','orange','mango','lemon']
+# new_fruit = 'strawberry'
+# if new_fruit in fruits:
+#     print('That fruit already exist in the list')
+# else: 
+#     fruits.append(new_fruit)
+#     print(fruits)
+
+#task 4
+# person = {
+#     'first_name':'Asabeneh',
+#     'last_name':'Yetayeh',
+#     'age':250,
+#     'country':'Finland',
+#     'is_marred':True,
+#     'skills':['JavaScript', 'React', 'Node', 'MongoDB', 'Python'],
+#     'address':{
+#         'street':'Space street',
+#         'zipcode':'02210'
+#         }
+# }
+# person['mother_name'] = 'Emilia'
+# person['father_name'] = 'Robert'
+# person['skills'].append('HTML')
+# person['age'] = 30
+# print(person)
